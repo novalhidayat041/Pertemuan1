@@ -11,6 +11,6 @@ fun main(args: Array<String>) {
     /**
      * Blok digunakan untuk menulis ikatan sebuah statement yang dikelompokkan bersama menjadi
     satu bagian
-    Comment adalah baris komentar pada program yang tidak akan dieksekusi oleh compiler
+    Comment adalah baris komentar pada program yang tidak akan dieksekusi oleh compiler.
      */
 }
