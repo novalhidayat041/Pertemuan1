@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     /**
-     * Untuk literal number penunjukan nilai (boxing) pada sebuah variabel tidak akan berpengaruh
+     *  Untuk literal number penunjukan nilai (boxing) pada sebuah variabel tidak akan berpengaruh
     pada identitas suatu variabel.
      */
     val a: Int = 10000
