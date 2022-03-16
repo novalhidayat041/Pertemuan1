@@ -1,7 +1,7 @@
 /**
  * String Templates
  * Template ekspresi String diawali dengan tanda dolar ($) diikuti oleh nama variabel yang akan
- * digabungkan kedalam suatu String. Perhatikan kode program berikut:
+ * digabungkan kedalam suatu String. Perhatikan kode program berikut,:
  */
 
 fun main(args: Array<String>) {
